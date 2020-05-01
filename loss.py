@@ -1,3 +1,8 @@
+"""
+Reference:
+- https://github.com/bermanmaxim/LovaszSoftmax/blob/master/pytorch/lovasz_losses.py
+"""
+
 import numpy as np
 import torch
 import torch.nn as nn
